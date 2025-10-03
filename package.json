@@ -1,0 +1,25 @@
+{
+  "name": "getcontact",
+  "version": "1.0.0",
+  "description": "project getcontact",
+  "homepage": "https://github.com/wawanher487/getContact#readme",
+  "bugs": {
+    "url": "https://github.com/wawanher487/getContact/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wawanher487/getContact.git"
+  },
+  "license": "ISC",
+  "author": "Wawan Hermawan",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.5.2",
+    "yargs": "^16.2.0"
+  }
+}

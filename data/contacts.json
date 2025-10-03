@@ -1,1 +1,4 @@
-[{"name":"yoga ","email":"yoga@gmail.com","noHP":"083242304"},{"name":"Wawan Hermawan","email":"wawan@gmail.com","noHP":"083248242"}]
+[
+  { "name": "Wawan", "email": "wawan@gmail.com", "noHP": "084234234" },
+  { "name": "ujang", "email": "ujang@gmail.com", "noHP": "081923234234" }
+]
